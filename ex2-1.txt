@@ -1,0 +1,5 @@
+clear
+exercicio
+texto 
+01
+abc
